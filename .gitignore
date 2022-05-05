@@ -1,3 +1,7 @@
+# settings
+settings_*.py
+!settings_*_template.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
